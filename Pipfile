@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+pandas = "*"
+altair = "*"
+numpy = "*"
+seaborn = "*"
+notebook = "*"
+vega = "*"
+matplotlib = "*"
+scikit-learn = "*"
+gensim = "*"
+spacy = "*"
+statsmodels = "*"
+selenium = "*"
+nltk = "*"
+distance = "*"
+rpy2 = "*"
+datasketch = "*"
+python-levenshtein = "*"
+
+[requires]
+python_version = "3.7"

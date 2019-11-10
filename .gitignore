@@ -1,0 +1,14 @@
+.Ulysses-Group.plist
+*.csv
+*.txt
+.DS_Store
+.RData
+.Rhistory
+.ipynb_checkpoints
+*.jpg
+*.pdf
+*.xml
+*.png
+*.model
+*.pickle
+*.json
